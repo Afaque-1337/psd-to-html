@@ -22,7 +22,7 @@ a {
   float: right;
   position: relative;
   left: -150px;
-  top: 15px;
+  top: -58px;
   border-radius: 5px;
   padding: 10px 20px;
   color: var(--main);
@@ -30,6 +30,7 @@ a {
 }
 
 .main-nav {
+  width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
